@@ -1,1 +1,1 @@
-This is a README for my 0x0E-ES6_basic project!
+This is a README for my 0x00-ES6_basic project!
